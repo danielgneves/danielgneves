@@ -13,13 +13,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=for-the-badge&logo=postgresql&logoColor=282828)
 ![Postman](https://img.shields.io/badge/Postman-FFF.svg?style=for-the-badge&logo=Postman&logoColor=282828)
 ![Git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=git&logoColor=282828)
+
 ---
 
 ## 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgneves&show_icons=true&theme=graywhite)
 
-## 👤 Social 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23FFF?style=for-the-badge&logo=instagram&logoColor=282828)](https://www.instagram.com/danielgneves/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=282828)](https://www.linkedin.com/in/danielgneves/)
 
 *"This song is new to me, but I am honored to be a part of it."*
