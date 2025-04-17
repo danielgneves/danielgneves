@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou o Daniel!
+`Back-End Developer`
 
 ## 🚀 Sobre Mim
 
@@ -18,7 +19,7 @@
 
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgneves&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgneves&show_icons=true&theme=dark)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23FFF?style=for-the-badge&logo=instagram&logoColor=282828)](https://www.instagram.com/danielgneves/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=282828)](https://www.linkedin.com/in/danielgneves/)
 
