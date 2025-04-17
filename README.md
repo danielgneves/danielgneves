@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-- 💼 **Em transição** para a área de tecnologia
+- 👨‍💻 **Em transição** para a área de tecnologia
 - 📚 Acadêmico em Sistemas de Informação pela UFGD
 - 🌱 Estudando Java e Spring Boot
 - 🌍 **Localização**: Dourados - MS  
